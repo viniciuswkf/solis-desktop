@@ -1,0 +1,16 @@
+{
+  "name": "solis-desktop",
+  "version": "1.0.0",
+  "description": "Desktop frontend for solis-crypto API",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Jane Doe",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/electron": "^1.6.10",
+    "electron": "^25.3.2",
+    "typescript": "^5.1.6"
+  }
+}
